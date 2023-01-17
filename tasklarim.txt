@@ -1,0 +1,86 @@
+using System;
+using System.Threading.Tasks;
+
+namespace ConsoleApp8
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Task 1
+            //int a = 53;
+            //int b = 48;
+            //int c = 10;
+
+            //if (a <= b && a <= c)
+            //{
+            //    Console.WriteLine(a);
+            //}
+            //else if (b <= c && b <= a)
+            //{
+            //    Console.WriteLine(b);
+            //}
+            //else
+            //{ 
+            //    Console.WriteLine(c);
+            //}
+
+
+            //Task 2
+            //int[] num = {21,213,21,56,32,1,5,135,11,6,58 };
+            //int max = 0;
+
+            //for (int i = 0; i < num.Length; i++)
+            //{
+            //    if (num[i] > max)
+            //    {
+            //        max = num[i];
+            //    }
+
+            //}
+            //Console.WriteLine(max);
+
+            //task3
+
+            //int[] num3 = { 12,45,87,96,2,84,63,78,15,64};  
+            //int count = 0;
+            //int sum = 0;
+
+            //for (int i = 0; i < num3.Length; i++)
+            //{
+            //    if (num3[i] %3==0)
+            //    {
+            //        count++;
+            //        sum += num3[i];
+
+            //    }
+
+            //}
+            //double avarage = sum / count;
+            //Console.WriteLine(avarage);
+
+            //Verilmiş ədədlər siyahısında 3 rəqəmli ədəd olub olmadığını tapan alqoritm
+
+            //Task 4
+            //int[] numbers = { 2, 1, 56, 54, 86, 18, 18, 646, 6266, 151, 661, 616, 816, 816, 818 };
+
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] > 99 && numbers[i] < 1000)
+            //    {
+
+            //        Console.WriteLine("Bu siyahida uc reqemli eded var");
+            //        break;
+            //    }
+                
+                        
+            //}
+           
+        }
+    }
+
+
+
+
+    
+}
